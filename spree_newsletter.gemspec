@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.requirements << 'none'
 
-  s.add_dependency 'spree_core', '~> 2.3.4'
+  s.add_dependency 'spree_core', '~> 3.0.0'
   s.add_dependency 'kaminari'
   # s.add_dependency 'roadie', '~> 3.0.1'
   # s.add_dependency 'roadie-rails', '~> 1.0.3'
